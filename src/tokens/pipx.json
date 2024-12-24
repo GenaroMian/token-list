@@ -1,0 +1,11 @@
+{
+  "chainId": 101,
+  "address": "2pbmSvvgKjfDHynJLan6WrF73ytzKkoW1fXeFnuMgwr7",
+  "symbol": "PPXS",
+  "name": "PipX",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/GenaroMian/token-list/main/assets/mainnet/pipx.png",
+  "tags": [
+    "utility-token"
+  ]
+}
